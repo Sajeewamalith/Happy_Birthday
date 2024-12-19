@@ -4,7 +4,7 @@
 ## Introduction
 - Google developer training - Android Basics with Compose Course
 - Build a basic layout Pathway project
-- [More details](https://github.com)
+- [More details](https://github.com/google-developer-training/basic-android-kotlin-compose-birthday-card-app)
 
 
 
